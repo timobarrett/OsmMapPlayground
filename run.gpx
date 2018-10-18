@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="five twenty six ware">
+    <time>50757-09-21T08:07:48</time>
+    <trk>
+        <trkseg>
+            <trkpt lat="42.8307722" lon="-71.5686487">
+                <ele>0</ele>
+                <time>2018-10-15T04:23:20</time>
+            </trkpt>
+            <trkpt lat="42.834739" lon="-71.5611763">
+                <ele>0</ele>
+                <time>2018-10-15T04:29:00</time>
+            </trkpt>
+            <trkpt lat="42.8382651" lon="-71.565915">
+                <ele>0</ele>
+                <time>2018-10-15T04:33:33</time>
+            </trkpt>
+            <trkpt lat="42.8410781" lon="-71.5747076">
+                <ele>0</ele>
+                <time>2018-10-15T04:38:03</time>
+            </trkpt>
+            <trkpt lat="42.844658" lon="-71.5835065">
+                <ele>0</ele>
+                <time>2018-10-15T04:42:40</time>
+            </trkpt>
+            <trkpt lat="42.8487862" lon="-71.5844258">
+                <ele>0</ele>
+                <time>2018-10-15T04:47:06</time>
+            </trkpt>
+            <trkpt lat="42.8520483" lon="-71.5797436">
+                <ele>0</ele>
+                <time>2018-10-15T04:52:36</time>
+            </trkpt>
+            <trkpt lat="42.8478508" lon="-71.5868281">
+                <ele>0</ele>
+                <time>2018-10-15T04:56:59</time>
+            </trkpt>
+            <trkpt lat="42.8435572" lon="-71.5803005">
+                <ele>0</ele>
+                <time>2018-10-15T05:02:01</time>
+            </trkpt>
+            <trkpt lat="42.8400011" lon="-71.5716564">
+                <ele>0</ele>
+                <time>2018-10-15T05:06:28</time>
+            </trkpt>
+            <trkpt lat="42.8373885" lon="-71.5625956">
+                <ele>0</ele>
+                <time>2018-10-15T05:10:53</time>
+            </trkpt>
+            <trkpt lat="42.832525" lon="-71.563951">
+                <ele>0</ele>
+                <time>2018-10-15T05:15:36</time>
+            </trkpt>
+            <trkpt lat="42.8308872" lon="-71.5686263">
+                <ele>0</ele>
+                <time>2018-10-15T05:21:37</time>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
